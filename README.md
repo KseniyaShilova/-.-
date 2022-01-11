@@ -1,2 +1,2 @@
-# -.-
+# Edu.net
 isuct
