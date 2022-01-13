@@ -1,0 +1,65 @@
+* {box-sizing: border-box}
+.menu{
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 10px;
+
+  margin-left: auto;
+  width: 300px;
+  height: 450px;
+  padding: 10px;
+  box-shadow: 0 1.5px 4px #00000048, 0 1.5px 6px #ff000086;
+  background: linear-gradient(to bottom, rgb(255, 72, 0), white)
+
+}
+
+h2{
+  font-size: 30px;
+  text-align: right;
+}
+
+.profil, .myrecpti, .friendsrecpti, .friends{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+  width: 90%;
+  height: 50px;
+  background-color: #00f7ff9f;
+  margin: 15px;
+  border-radius: 20px;
+  border-color: rgba(240, 248, 255, 0.24);
+ }
+
+ .stranica{
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 10px;
+
+  margin-right: auto;
+  width: 75%;
+  height: 100%;
+  padding: 10px;
+  box-shadow: 0 1.5px 4px #00000048, 0 1.5px 6px #ff000086;
+  background: linear-gradient(to bottom, rgb(255, 72, 0), white)
+
+ }
+
+ .photo{
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 100px;
+  text-align: center;
+
+
+  width: 150px;
+  height: 150px;
+  padding: 10px;
+  box-shadow: 0 1.5px 4px #00000048, 0 1.5px 6px #ff000086;
+  background: linear-gradient(to bottom, rgb(0, 60, 255), rgb(0, 255, 200))
+
+ }
+
+h3{
+  padding: 30px;
+}
+
+h1{
+  padding: 150px 0 0 200px;
+}
+ 
